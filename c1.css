@@ -1,0 +1,33 @@
+.abc{
+    position: relative;
+    left:30%;
+    padding-top: 50px;
+
+}
+.xyz{
+	position: absolute;
+	right: 30%;
+	top: 130px;
+}
+.lkg{
+ background-image: radial-gradient(silver, gray, whitesmoke);
+  }
+p.para1 {
+     font-family: Brush Script MT
+     
+ }
+p.para2 {
+	 font-family: Brush Script MT
+}
+p.para3 {
+	font-family: monospace
+}
+h2{
+	border: solid;
+	border-radius: 5px;
+	background-color: gray;
+	color: whitesmoke;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
